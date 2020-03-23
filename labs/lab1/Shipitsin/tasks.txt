@@ -1,0 +1,4 @@
+enter e-mails in comma-separated-format ("aaaa@bbb,ccc@ddd")
+shipitsin@phystech.edu
+generating hash for  ['shipitsin']
+Your tasks are 3 6 7
